@@ -7,8 +7,6 @@
 
 - 👯 I’ve recently finished my [Stardew Fair Calculator](stardew-fair-calculator.vercel.app)
 
-- 📫 Contact me here! **kathyphan.062000@gmail.com**
-
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -75,5 +73,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-phan&hide=html,css&layout=compact&langs_count=8" alt="kathy-phan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathy-phan&show_icons=true&locale=en" alt="kathy-phan" /></p>

@@ -72,4 +72,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-phan&hide=html,css&layout=compact&langs_count=8" alt="kathy-phan" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-phan&hide=html,css&layout=compact&langs_count=8" alt="kathy-phan" /></p> -->

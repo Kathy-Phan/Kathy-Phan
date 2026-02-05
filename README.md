@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Discord Fishing Bot**
 
-- 👯 I’ve recently finished my [Stardew Fair Calculator](stardew-fair-calculator.vercel.app)
+- 👯 I’ve recently finished my [Stardew Fair Calculator]([stardew-fair-calculator.vercel.app](https://github.com/Kathy-Phan/stardew-fair-calculator))
 
 <h3 align="left">Languages:</h3>
 <p align="left">

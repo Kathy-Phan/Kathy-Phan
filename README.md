@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathy-phan&label=Profile%20views&color=0e75b6&style=flat" alt="kathy-phan" /> </p>
 
-- 🔭 I’m currently working on a **Discord Fishing Bot**
+- 🔭 I’m currently updating my Stardew Calculator! (FOCUS ON 1 PROJECT AND IMPROVE ON IT INSTEAD OF MULTIPLE PROJECTS)
 
 - 👯 I’ve recently finished my [Stardew Fair Calculator](https://github.com/Kathy-Phan/stardew-fair-calculator)
 

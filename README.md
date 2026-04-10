@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kathy</h1>
-<h3 align="center">Currently in love with progress and results <3</h3>
+<h3 align="center">Currently full of passion from progress</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathy-phan&label=Profile%20views&color=0e75b6&style=flat" alt="kathy-phan" /> </p>
 

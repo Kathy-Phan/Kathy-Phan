@@ -41,4 +41,8 @@
 <img src="https://img.shields.io/badge/Postman-fff3b0?style=for-the-badge&logo=postman&logoColor=black" />
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-phan&hide=html,css&layout=compact&langs_count=8" alt="kathy-phan" /></p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+

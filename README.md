@@ -1,75 +1,44 @@
-<h1 align="center">Hi, I'm Kathy</h1>
-<h3 align="center">Currently full of passion from progress</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathy-phan&label=Profile%20views&color=0e75b6&style=flat" alt="kathy-phan" /> </p>
-
-- Creating a web app right now
-
-- 👯 I’ve recently finished my [Stardew Fair Calculator](https://github.com/Kathy-Phan/stardew-fair-calculator)
-
-<h3 align="left">Languages:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kathy-phan&label=Profile%20views&color=cab3df&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Kathy%20💖&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<h3 align="center"> 2026 Computer Science Graduate @ UNSW✨</h3>
+
+<h2>Projects:</h2>
+
+- [x] 2024 - First html/css website on Animal Crossing
+- [x] 2025 - I’ve recently finished my [Stardew Fair Calculator](https://github.com/Kathy-Phan/stardew-fair-calculator)
+- [ ] 2026 - Creating a web app right now
+
+<h3 align="left">Languages</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-ffb3ba?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-b3d9ff?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-fff3b0?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ffd6a5?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-bde0fe?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Haskell-e0bbff?style=for-the-badge&logo=haskell&logoColor=white" />
+<img src="https://img.shields.io/badge/C-cdb4db?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-a2d2ff?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <h3 align="left">Tools & Frameworks:</h3>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
+<img src="https://img.shields.io/badge/React-ffb3ba?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-b3f0c8?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-d6c1ff?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-b3d9ff?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-ffd6a5?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-ffcad4?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-a2d2ff?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-f7c6c7?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-cdb4db?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-e0bbff?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-fff3b0?style=for-the-badge&logo=postman&logoColor=black" />
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-phan&hide=html,css&layout=compact&langs_count=8" alt="kathy-phan" /></p> -->
